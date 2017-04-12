@@ -130,3 +130,50 @@ li.dropdown {
 .dropdown:hover .dropdown-content {
     display: block;
 }
+
+<body> 
+<h1><u>Stardust Cosmetics</u></h1> 
+<ul>
+  <li><a href="#home">Home</a></li>
+  <li class="dropdown">
+    <a href="Lips.html" class="dropbtn">Lips</a>
+    <div class="dropdown-content">
+      <a href="Lips.html">Neptune</a>
+      <a href="Lips.html">Polaris</a>
+      <a href="Lips.html">Venus</a>
+	<a href="Lips.html">Saturn</a>
+	<a href="Lips.html">Astrid</a>
+	<a href="Lips.html">Nova</a>
+<li class="dropdown">
+    <a href="Cheek.html" class="dropbtn">Cheek</a>
+    <div class="dropdown-content">
+      <a href="Highlight.html">Highlight</a>
+    </div>
+ <li class="dropdown">
+    <a href="Shimmer.html" class="dropbtn">Eyes</a>
+    <div class="dropdown-content">
+      <a href="shimmers.html">Shimmers</a>
+    </div>
+  </li>
+ </li>
+<div id="tfheader">
+		<form id="tfnewsearch" method="get" action="file:///C:/Users/Mentor/Desktop/index.html">
+		        <input type="text" class="tftextinput" name="q" size="21" maxlength="120"><input type="submit" value="search" class="tfbutton">
+		</form>
+	<div class="tfclear"></div>
+	</div>
+
+</ul>
+
+<h3><b><i>The best cosmetics for all skin types</b></i></h3> 
+<h2>About Stardust Cosmetics</h2>
+<p> Stardust Cosmetics was started with the ideas of bringing qulity makeup to wonderful men and women around the world.
+At Stardust Cosmetics, we guarantee the use of organic materials in our products and a cruelty free moto.</p>
+
+<h2>Our Founder:</h2>
+<p>Make-up enthusiaist Irma Murillo, decided to start up her own cosmetics project in August 2016, as a way to pass the time going from a hobby to a full fledged cosmetics line.</p>
+
+
+</body>
+
+</html>
