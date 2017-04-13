@@ -227,7 +227,39 @@ At Stardust Cosmetics, we guarantee the use of organic materials in our products
 <h2>Our Founder:</h2>
 <p>Make-up enthusiaist Irma Murillo, decided to start up her own cosmetics project in August 2016, as a way to pass the time going from a hobby to a full fledged cosmetics line.</p>
 
+<div>
 
+<p><u>Neptune</u><span class="price">$15</span><br/>
+ <img src="neptune.png">
+<div class="neptune"> 
+<small>Neptune is a ocean blue shade that resembles the color of the icy planet.
+Neptune's metallic matte is guaranteed to pop on <i><u>any</i></u> skin tone. Dare to be <b>bold</b> with Neptune.</small></p>
+
+<p><u>Polaris</u><span class="price">$15</span><br />
+<img src="polaris.png">
+<div class="polaris">
+<small>Polaris' bright matallic pop of indigo is the perfect shade for any eye catching makeup look. Make a daring statement. Be <b>bright</b> with Polaris.</small></p>
+
+<p><u>Venus</u><span class="price">$15</span><br />
+<img src="venus.jpg">
+<div class="venus">
+<small>Make your look sultry with Venus. The shade Venus is a color even the goddess of love will <b>envy</b>.</small></p>
+
+<p><u>Saturn</u><span class="price">$15</span><br />
+<img src="saturn.png">
+<div class="saturn">
+<small>Planet Saturn's "earthy" brown color inspired the metallic burnt orange shade that will go with any fall look. Choose Saturn to be your go to fall color and make a <b>giant</b> impression.</small></p>
+
+<p><u>Astrid</u><span class="price">$15</span><br />
+<img src="astrial.png">
+<div class="astrid">
+<small>Astrid is a natural pink tone that suits all skin tones for a stary glow. Astrid is for the <b>subtle</b> attention seekers.</small></p>
+
+<p><u>Nova</u> <span class="price">$15</span><br />
+<img src="nova.jpg">
+<div class="nova">
+<small>Be an <b>eye-catcher</b> with Nova. The bright coral shade will surely make <i>you</i> the center of everyones attention. </small></p>
+</div>
 </body>
 
 </html>
